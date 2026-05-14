@@ -1,5 +1,6 @@
 # DevFlow Agent
 
+[![SafeSkill 72/100](https://img.shields.io/badge/SafeSkill-72%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/badhope-devflow-agent)
 **DevFlow Agent** — 可靠、诚实、可控的 AI 开发助手 CLI 工具。
 
 ## 三条铁律
