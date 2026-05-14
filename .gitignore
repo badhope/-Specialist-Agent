@@ -1,3 +1,11 @@
+# Sensitive files - NEVER commit these
+.env
+.env.*
+.devflow/
+config_backup.json
+*.key
+*.pem
+
 # Thesis Specialist - .gitignore
 
 # Python
